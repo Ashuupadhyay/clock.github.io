@@ -1,0 +1,43 @@
+.container{
+    background-color: black;
+    height: 550px;
+    border: 10px double whitesmoke;
+    box-shadow: -20px 20px 50px gold;
+}
+#r1{
+    background-color: red;
+    height: 200px;
+    justify-content: center;
+    font-size: 100px;
+    overflow-x:auto;
+    color: lime;
+    background-color: black;
+    text-shadow: 0px 0px 20px orangered ;
+
+}
+#r2{
+    background-color:black;
+    height: 280px;
+    justify-content: center;
+    font-size: 50px;
+    overflow-x: hidden;
+    color: deepskyblue;
+    background-color: black;
+    text-shadow: 0px 0px 20px orangered;
+    
+
+
+
+}
+body{
+    background-color: black;
+}
+footer{
+font-size: 30px;
+color: orangered;
+text-align: center;
+
+word-spacing: 20px;
+
+
+}
